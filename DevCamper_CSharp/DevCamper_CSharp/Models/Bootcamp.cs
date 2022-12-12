@@ -1,4 +1,4 @@
-namespace DevCamper_CSharp
+namespace DevCamper_CSharp.Models
 {
     public class WeatherForecast
     {
